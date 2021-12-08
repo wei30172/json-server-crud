@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "likes": 25,
+      "title": "Lorem ipsum dolor sit amet, consectetur",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet tortor nec scelerisque luctus. Aliquam consectetur nulla et odio interdum condimentum."
+    },
+    {
+      "id": 2,
+      "likes": 18,
+      "title": "Mauris non rhoncus velit. Vivamus vitae",
+      "body": "Mauris quis purus sit amet arcu consequat volutpat et eget quam. Aenean in enim sed felis vulputate sodales. Maecenas condimentum purus ut ultricies eleifend."
+    }
+  ]
+}
